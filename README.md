@@ -1,0 +1,2 @@
+# iCon
+Standard mac AppIcon
