@@ -3,7 +3,7 @@ Generating standard mac AppIcon file with drag and drop.
 Rounded corner, shadow and size are all based on the latest Apple Design Guidelines.
 You only need to provide an image(1024*1024).
 
-## Data
+## Reference
 This form is based on Apple Design Resources(Sketch Edition).
 
 |Name |	Position & Size	| Shadow |
