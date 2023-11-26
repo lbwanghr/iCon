@@ -3,7 +3,7 @@ Generating standard mac AppIcon file with drag and drop.
 Rounded corner, shadow and size are all based on the latest Apple Design Guidelines.
 You only need to provide an image(1024*1024).
 
-Data
+## Data
 ---
 |Name |	Position & Size	| Shadow |
 |---|---|---|
@@ -21,5 +21,11 @@ Data
 Shadow Color: #000000 alpha: 30
 
 This form is based on Apple Design Resources(Sketch Edition).
+
+## Need I pay for it?
+
+iCon - Standard AppIcon is free to download, because it's not appropriate for AppStore.
+
+if you like it, you can buy my other apps to support me.
 
 Any questions please create an issue or email me lbwanghr@icloud.com.
