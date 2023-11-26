@@ -29,4 +29,5 @@ iCon - Standard AppIcon is free to download, because it's not appropriate for Ap
 
 if you like it, you can buy my other apps to support me.
 
+---
 Any questions please create an issue or email me lbwanghr@icloud.com.
