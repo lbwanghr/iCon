@@ -6,7 +6,6 @@ You only need to provide an image(1024*1024).
 ## Data
 This form is based on Apple Design Resources(Sketch Edition).
 
----
 |Name |	Position & Size	| Shadow |
 |---|---|---|
 |1024px-512pt@2x	|100,100,824,824	|0,10,10,0
