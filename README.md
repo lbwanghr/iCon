@@ -4,6 +4,8 @@ Rounded corner, shadow and size are all based on the latest Apple Design Guideli
 You only need to provide an image(1024*1024).
 
 ## Data
+This form is based on Apple Design Resources(Sketch Edition).
+
 ---
 |Name |	Position & Size	| Shadow |
 |---|---|---|
@@ -20,7 +22,7 @@ You only need to provide an image(1024*1024).
 
 Shadow Color: #000000 alpha: 30
 
-This form is based on Apple Design Resources(Sketch Edition).
+
 
 ## Need I pay for it?
 
