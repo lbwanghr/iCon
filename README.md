@@ -1,4 +1,4 @@
-# iCon - Standard mac AppIcon
+# iCon - Standard AppIcon
 Generating standard mac AppIcon file with drag and drop.
 Rounded corner, shadow and size are all based on the latest Apple Design Guidelines.
 You only need to provide an image(1024*1024).
